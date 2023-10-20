@@ -1,6 +1,6 @@
 # Interactive Clustering Application User Manual
 * App and documentation created using ChatDev/Gen AI - https://github.com/OpenBMB/ChatDev *
-<img src='' width=400>
+<img src='https://github.com/lucasrabreu/InteractiveClustering/blob/master/img.png?raw=true' >
 
 ## Introduction
 The Interactive Clustering Application is a Streamlit-based Python application that allows users to perform clustering and statistical analysis on a dataset with a variable number of columns. The application provides an interactive interface for selecting columns, running clustering algorithms, visualizing clusters, computing statistics, and exporting the clustered dataset and cluster statistics.
